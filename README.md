@@ -5,9 +5,10 @@ Date: October 2018
 Description: An academic project on AVL and BST trees using enzyme sequences.
 
 To Compile:
-make all
 
+make all
 To Execute:
+
 ./query_tree <database file name> <flag> < <test file>
 ./query_tree rebase210.txt AVL < filename.txt
 ./query_tree rebase210.txt BST < filename.txt
