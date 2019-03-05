@@ -1,7 +1,7 @@
 /******************************************************************************************
 File: 			SequenceMap.h
 Author: 		Arthur Lai
-Date Created:	October 2018
+Date Created:		October 2018
 
 Description:
 This file contains the implementation for a custom structure called "SequenceMap" which
