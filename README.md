@@ -10,8 +10,8 @@ To Compile:<br>
 
 To Execute:<br>
 ```
-./query_tree rebase210.txt AVL < filename.txt <br>
-./query_tree rebase210.txt BST < filename.txt <br>
-./test_tree rebase210.txt sequences.txt AVL <br>
+./query_tree rebase210.txt AVL < filename.txt
+./query_tree rebase210.txt BST < filename.txt
+./test_tree rebase210.txt sequences.txt AVL
 ./test_tree rebase210.txt sequences.txt BST
 ```
